@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxuaGRlN2RtYjQxNXZwcGZlMndrOTBpZnZvOGhxc2Fxem16MDh3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif" width="300" alt="coding gif"/>
+  <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="300" alt="coding gif"/>
 </div>
 
 
@@ -63,12 +63,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-
-    
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
@@ -114,9 +108,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jenilsoni04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenilsoni04&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="150" alt="Most Used Languages" />
 </div>
 
