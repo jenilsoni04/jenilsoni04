@@ -114,7 +114,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jenilsoni04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=jenilsoni04&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -125,166 +124,32 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jenilsoni04&theme=tokyo-night&hide_border=true" width="90%" alt="Contribution Graph" />
 </div>
 
-## 🐍 Watch my contributions snake
-<div align="center">
-  
-![snake gif](https://github.com/jenilsoni04/jenilsoni04/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## 🎯 Current Focus
 
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" />
-        <h4>🔥 Learning & Growing</h4>
-      </div>
-      <ul align="left">
-        🎓 Advanced System Design Patterns<br>
-        ☁️ Cloud-Native Architecture<br>
-        🤖 AI/ML Integration in Web Apps<br>
-        📊 Data Engineering at Scale<br>
-        🔐 Advanced Security Practices
-      </ul>
-    </td>
-    <td>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" />
-        <h4>📚 Current Reads</h4>
-      </div>
-      <ul align="left">
-        📖 Clean Architecture by Robert C Martin<br>
-        📘 System Design Interview<br>
-        📗 Designing Data-Intensive Applications<br>
-        📕 The Psychology of Money<br>
-        📙 Zero to One by Peter Thiel
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" />
-        <h4>🚀 Building & Shipping</h4>
-      </div>
-      <ul align="left">
-        ⚡ High-Performance Microservices<br>
-        🛠️ Developer Productivity Tools<br>
-        🌐 Open Source Projects<br>
-        📱 Cross-Platform Mobile Apps<br>
-        🎮 Web3 Gaming Platform
-      </ul>
-    </td>
-    <td>
-      <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80" />
-        <h4>🤝 Contributing To</h4>
-      </div>
-      <ul align="left">
-        💫 Major Open Source Projects<br>
-        👥 Tech Community Growth<br>
-        📝 Technical Blog Posts<br>
-        🎤 Tech Talks & Workshops<br>
-        🌱 Mentoring Juniors
-      </ul>
-    </td>
-  </tr>
-</table>
-</div>
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-<details>
-<summary><h2>😄 Developer Life in GIFs</h2></summary>
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <div align="center">
-         <img src="https://i.giphy.com/Dh5q0sShxgp13DwrvG.webp" width="280"/>
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center">
-          <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGExbzY2Y2NpMjY4ZGx5aTFscm04amRnbXM1enJ0ZXNmeTR3a3d5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pufOOG2cplDtfyQXL1/giphy-downsized-large.gif" width="280"/>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <div align="center">
-          <img src="https://i.giphy.com/HLB0nLA36GCCo6JuB5.webp" width="280"/>
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center">
-          <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamFldzFqY3Y2b2ExMDduMTlldm9laW5mdW4wdGsxYmZkNmx2Nnk5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.webp" width="280"/>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <div align="center">
-          <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29jbThhZzhzeGhpZmlsNjZ6dnQwbTZxM3pqZmxicWN4Njg1cWk0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pzmbXFDiRbEEk1vCtP/giphy.gif" width="280"/>
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center">
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3djbHlwOXljang2b2FncnZmOWRtc2x1M2o0Y2Z4MzB2anpzNHJwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="280"/>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <div align="center">
-          <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RrdWNrODJkbmEyN2E4cm5jeHh6MTVsNHpwYzVtMmJ1aTY5dXZhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wDcmx1GNDwp1SGvldp/giphy.gif" width="280"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-</details>
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
 
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="https://rahulmistry.in">
-    <img src="https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mistryrahul/">
+
+  <a href="https://www.linkedin.com/in/jenilsoni22/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/ProdigyRahul">
+  <a href="https://github.com/jenilsoni04">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://medium.com/@rahulmistry032">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://dev.to/rahulmistry">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdot.to&logoColor=white" />
-  </a>
-  <a href="mailto:rahulmistry.sde@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:jenilsoni.04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+
 
 ## 💭 Random Dev Quote
 <div align="center">
