@@ -109,41 +109,26 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=ProdigyRahul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-<td width="50%">
-    <img src="https://nirzak-streak-stats.vercel.app?user=prodigyRahul&theme=tokyonight" alt="GitHub Streak" />
-</td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProdigyRahul&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
-      </td>
-    <td width="50%">
-    <img src="https://nirzak-streak-stats.vercel.app?user=prodigyRahul&theme=tokyonight&mode=weekly" alt="GitHub Trophies" />
-</td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=jenilsoni04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=jenilsoni04&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProdigyRahul&theme=tokyo-night&hide_border=true" width="90%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenilsoni04&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="150" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jenilsoni04&theme=tokyo-night&hide_border=true" width="90%" alt="Contribution Graph" />
 </div>
 
-## 🎵 Vibing to
+## 🐍 Watch my contributions snake
 <div align="center">
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6i7m5gb7t2xhxick44s70juyk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://rahulmistry.in)
+![snake gif](https://github.com/jenilsoni04/jenilsoni04/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
