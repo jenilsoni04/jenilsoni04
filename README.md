@@ -94,7 +94,7 @@
 
 ### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,ps,ai,vscode,postman,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,ai,vscode,postman,netlify,vercel" />
 </p>
 
 </details>
